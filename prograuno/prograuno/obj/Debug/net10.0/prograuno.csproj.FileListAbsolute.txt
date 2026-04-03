@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\bin\Debug\net10.0\prograuno.exe
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\bin\Debug\net10.0\prograuno.deps.json
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\bin\Debug\net10.0\prograuno.runtimeconfig.json
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\bin\Debug\net10.0\prograuno.dll
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\bin\Debug\net10.0\prograuno.pdb
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.AssemblyInfo.cs
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.sourcelink.json
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.dll
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\refint\prograuno.dll
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.pdb
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\prograuno.genruntimeconfig.cache
+C:\Users\PC\source\repos\Gabwill\LABORATORIOUNO\prograuno\prograuno\obj\Debug\net10.0\ref\prograuno.dll
