@@ -28,6 +28,24 @@ class Program
             double subtotal = cantidades[i] * precios[i];
             total += subtotal;
         }
+        Console.WriteLine("\n========== RESUMEN DEL PEDIDO ==========");
+        Console.WriteLine("Cliente: " + nombre_usuario);
+        Console.WriteLine("----------------------------------------");
+
+        for (int i = 0; i < 5; i++)
+        {
+            double subtotal = cantidades[i] * precios[i];
+            Console.WriteLine("Producto: " + productos[i]);
+            Console.WriteLine("Cantidad: " + cantidades[i]);
+            Console.WriteLine("Precio:   " + precios[i]);
+            Console.WriteLine("Subtotal: " + subtotal);
+            Console.WriteLine("----------------------------------------");
+        }
+
+        Console.WriteLine("TOTAL GENERAL: " + total);
+        Console.WriteLine("========================================");
     }
+
+
 
 }
